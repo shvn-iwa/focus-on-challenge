@@ -1,6 +1,6 @@
 # focus_on_challenge
 
-A new Flutter project.
+This is a shun's personal project.
 
 ## Getting Started
 
